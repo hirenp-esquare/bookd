@@ -1,5 +1,5 @@
 ---
-title: "Team PSD DEV TEST Manual"
+title: "Team PSD Manual"
 author: "Team PSD"
 date: "`r Sys.Date()`"
 link-citations: yes
